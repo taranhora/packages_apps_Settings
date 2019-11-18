@@ -104,4 +104,7 @@
     <string name="smart_charging_level_title">Stop trigger level</string>
     <string name="smart_charging_resume_level_title">Start trigger level</string>
     <string name="smart_charging_footer">Smart Charging allows you to set maximum charging level to extend the lifespan of your battery</string>
+
+    <!-- Back gesture animation -->
+    <string name="back_gesture_arrow_message">Show an animated arrow for back gesture.</string>
 </resources>
