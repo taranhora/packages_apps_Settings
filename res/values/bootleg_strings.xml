@@ -108,4 +108,9 @@
 
     <!-- Back gesture animation -->
     <string name="back_gesture_arrow_message">Show an animated arrow for back gesture.</string>
+
+    <!-- Notification Vibration -->
+    <string name="vibrate_on_notifications_title">Notification vibration</string>
+    <string name="vibrate_on_notifications_summary">Vibrate on notifications</string>
+
 </resources>

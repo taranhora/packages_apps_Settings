@@ -87,6 +87,12 @@
         android:order="-140"
         settings:controller="com.android.settings.notification.NotificationVolumePreferenceController"/>
 
+    <!-- Notification Vibration -->
+    <com.bootleggers.dumpster.preferences.SystemSettingSwitchPreference
+        android:key="vibrate_on_notifications"
+        android:title="@string/vibrate_on_notifications_title"
+        android:defaultValue="true" />
+
     <!-- Also vibrate for calls -->
     <SwitchPreference
         android:key="vibrate_when_ringing"
